@@ -1,4 +1,4 @@
-module github.com/sercand/kuberesolver/v4
+module github.com/yaronius/kuberesolver/v4
 
 go 1.14
 
